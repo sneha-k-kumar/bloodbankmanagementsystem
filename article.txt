@@ -1,0 +1,755 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Searching Articles</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EDGE" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> 
+
+<meta name="keywords" content="Search an article,Searching article,search article in knowledge base" />
+<meta name="description" content="To search articles in the knowledge base, click on "Search Articles" link available under  Articles section in left navigation bar. ’Search Articles’" />
+<link rel="shortcut icon" href="https://www.knowledgebase-script.com/kb/images/favicon.png" type="image/png" />
+
+<meta name="robots" content="index, follow" />
+
+<meta name="generator" content="PHPKB Knowledge Base Software" />
+
+<link rel="canonical" href="https://www.knowledgebase-script.com/kb/article/searching-articles-80.html" />
+<script type="application/ld+json">
+														[
+															{
+																"@context": "https://schema.org", 
+														 		"@type":[
+														 					"Article",
+														 					"Product"
+														 				],
+														 		"name":"Searching Articles",
+														 		"mainEntityOfPage": {
+														            "@type": "WebPage",
+														            "@id": "https://www.knowledgebase-script.com/kb/article/searching-articles-80.html"
+														        },
+																"headline": "Searching Articles",
+																"image": "https://www.knowledgebase-script.com/kb/assets/article-search-results.png",
+																"author": "Gurjeet Kaur", 
+																"keywords": "Search an article,Searching article,search article in knowledge base",
+																"publisher": {
+																    "@type": "Organization",
+																    "name": "PHPKB Knowledge Base Software",
+																    "logo": {
+																      "@type": "ImageObject",
+																      "url": "http://www.knowledgebase-script.com/images/phpkb-logo.gif"
+																    }
+																  },
+														 		"url": "https://www.knowledgebase-script.com/kb/article/searching-articles-80.html",
+																"datePublished": "2016-07-22",
+																"dateCreated": "2016-07-22T07:10:58",
+																"dateModified": "2017-08-04T04:54:37",
+																"description": "",
+																"sku": "80",
+														        "mpn": "80KBA",
+														        "brand": {
+														           "@type": "Brand",
+														           "name": "PHPKB"
+														         },
+																"offers": {
+														            "@type": "Offer",
+															            "url": "https://www.knowledgebase-script.com/pricing.php",
+															            "price": "0.00",
+															            "priceCurrency": "USD",
+															            "priceValidUntil": "2021-12-31",
+														                "availability": "https://schema.org/InStock",
+															            "seller": {
+															                "@type": "Organization",
+															                "name": "PHPKB Knowledge Base Software",
+															                "url": "https://www.knowledgebase-script.com"
+															            }
+															     }
+															     ,"review": {
+														            "@type": "Review",
+														            "reviewRating": {
+														              "@type": "Rating",
+														              "ratingValue":"5.00",
+														              "bestRating": "5"
+														            },
+														            "author": {
+														              "@type": "Person",
+														              "name": "Gurjeet Kaur"
+														            }
+														          }
+																    ,"aggregateRating": {
+																    	"@type": "AggregateRating",
+															            "worstRating":"1",
+															            "bestRating": "5",
+															            "ratingValue": "5.00",
+															            "ratingCount": "1"
+														        	}
+														        	
+														        	
+															}]
+														 </script>
+															<meta property="og:locale" content="en_US" />
+															<meta property="og:type" content="article" />
+															<meta property="og:title" content="Searching Articles" />
+															<meta property="og:description" content="" />
+															<meta property="og:url" content="https://www.knowledgebase-script.com/kb/article/searching-articles-80.html" />
+															<meta property="og:site_name" content="PHPKB" />
+															<meta property="article:publisher" content="https://www.facebook.com/knowledgebasesoftware" />
+															<meta property="article:tag" content="Search an article,Searching article,search article in knowledge base" />
+															<meta property="article:section" content="Articles" />
+															<meta property="article:published_time" content="2016-07-22" />
+															<meta property="article:modified_time" content="2017-08-04T04:54:37" />
+															<meta property="og:updated_time" content="2017-08-04T04:54:37" />
+															<meta property="og:image" content="https://www.knowledgebase-script.com/kb/assets/article-search-results.png" />
+															<meta property="og:image:secure_url" content="https://www.knowledgebase-script.com/kb/assets/article-search-results.png" />
+															<meta property="og:image:width" content="1200" />
+															<meta property="og:image:height" content="650" />
+															<meta name="twitter:card" content="summary" />
+															<meta name="twitter:description" content="" />
+															<meta name="twitter:title" content="Searching Articles" />
+															<meta name="twitter:site" content="@phpkb" />
+															<meta name="twitter:image" content="https://www.knowledgebase-script.com/kb/assets/article-search-results.png" />
+															<meta name="twitter:creator" content="@phpkb" />
+<!-- Powered by 'PHPKB Knowledge Base Software' (http://www.knowledgebase-script.com) -->
+
+<!-- Please do not remove this line from the code to keep the license valid -->
+
+<link rel="preload" as="font" href="https://www.knowledgebase-script.com/kb/fonts/icons.woff2" type="font/woff2" crossorigin="anonymous">
+<style>
+@font-face{
+	font-family:'phpkbIcons';
+	src:
+	url(https://www.knowledgebase-script.com/kb/fonts/icons.woff2) format("woff2"),
+	url(https://www.knowledgebase-script.com/kb/fonts/icons.woff) format("woff"),
+	url(https://www.knowledgebase-script.com/kb/fonts/icons.ttf) format("truetype"),
+	url(https://www.knowledgebase-script.com/kb/fonts/icons.eot), url("https://www.knowledgebase-script.com/kb/fonts/icons.eot#iefix") format("embedded-opentype"),
+	url("https://www.knowledgebase-script.com/kb/fonts/icons.svg?#icons") format("svg");
+	font-weight:400;
+	font-style:normal;
+	font-display: swap;
+}
+</style>
+<link rel="preload" href="https://www.knowledgebase-script.com/kb/css/icons-phpkb.css" as="style" onload="this.rel='stylesheet'">
+<link rel="stylesheet" href="https://www.knowledgebase-script.com/kb/css/icons-phpkb.css">
+<link rel="preload" href="https://www.knowledgebase-script.com/kb/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'">
+<link rel="stylesheet" href="https://www.knowledgebase-script.com/kb/css/bootstrap.min.css" type="text/css">
+<link rel="preload" href="https://www.knowledgebase-script.com/kb/css/app-required.css" as="style" onload="this.rel='stylesheet'">
+<link href="https://www.knowledgebase-script.com/kb/css/app-required.css" rel="stylesheet" type="text/css" />
+<link rel="prefetch" as="style" media="screen and (min-width: 1px) and (max-width: 1048px)" onload="this.rel = 'stylesheet'" href="https://www.knowledgebase-script.com/kb/css/dlmenu.css">
+<link rel="preload"  media="screen and (min-width: 1px) and (max-width: 1048px)" href="https://www.knowledgebase-script.com/kb/css/dlmenu.css" type="text/css" as="style" onload="this.rel='stylesheet'">
+<link rel="stylesheet" media="screen and (min-width: 1px) and (max-width: 1048px)" href="https://www.knowledgebase-script.com/kb/css/dlmenu.css" type="text/css">
+<link rel="preload" href="https://www.knowledgebase-script.com/kb/css/app-required.css" as="style" onload="this.rel='stylesheet'">
+<link rel="stylesheet" href="https://www.knowledgebase-script.com/kb/css/app-required.css">
+<link rel="preload" as="style" onload="this.rel = 'stylesheet'" href="https://www.knowledgebase-script.com/kb/css/template.css">
+<link rel="stylesheet" href="https://www.knowledgebase-script.com/kb/css/template.css" type="text/css">
+<link rel="preload" href="https://www.knowledgebase-script.com/kb/css/phpkb.css" as="style" onload="this.rel='stylesheet'">
+<link rel="stylesheet" href="https://www.knowledgebase-script.com/kb/css/phpkb.css">
+
+<link href="https://www.knowledgebase-script.com/kb/css/rateit.css" rel="stylesheet" type="text/css" />
+
+<style>
+
+
+</style>
+
+
+
+
+
+
+</head>
+
+	<body class="fixed-body layout-fixed" >
+
+<div id="app" class="paper-loading error-page">
+
+	<!-- Nav -->
+
+	<div class="nav-fixed no-b">
+	<!-- Header -->
+	<nav class="mainnav navbar navbar-default justify-content-between">
+	   <div class="container relative">
+		   <a class="offcanvas dl-trigger paper-nav-toggle" type="button" data-toggle="offcanvas" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			   <i></i>
+		   </a>
+		   <a class="navbar-brand" href="https://www.knowledgebase-script.com/kb/index.php">
+			   <img class="d-inline-block align-top" alt="PHPKB Logo" src="https://www.knowledgebase-script.com/kb/images/phpkb-logo.png">
+		   </a>
+		   <div class="paper_menu">
+			   <div id="dl-menu" class="xv-menuwrapper responsive-menu">
+	<ul class="dl-menu align-items-center">
+		<li class="main-site"><a href="https://www.knowledgebase-script.com" title="Back to Knowledgebase-script.com">&laquo; PHPKB Site</a></li><li><a href="https://www.knowledgebase-script.com/kb/index.php" title="KB Home">KB Home</a></li><li><a href="https://www.knowledgebase-script.com/kb/search.php" title="Advanced Search">Search</a></li><li><a href="https://www.knowledgebase-script.com/kb/news.php" title="News">News</a></li><li><a href="https://www.knowledgebase-script.com/kb/glossary.php" title="Glossary">Glossary</a></li><li><a href="https://www.knowledgebase-script.com/kb/downloads.php" title="Downloads">Downloads</a></li><li><a href="https://www.knowledgebase-script.com/kb/contact.php" title="Ask a Question">Ask a Question</a></li>	</ul>
+</div>
+				<!-- Login modal -->
+		   </div>
+	   </div>
+	</nav>
+</div>
+
+		
+
+		<main class="single single-knowledgebase">
+
+			<section class="search-section">
+							<div class="masthead single-masthead ">
+								<div class="container">
+									<div class="row">
+										<div class="col-lg-12 mx-md-auto">
+											<form class="clearfix" name="frmsearch" method="post" action="https://www.knowledgebase-script.com/kb/search.php"  onsubmit="return check_form();">
+					<input type="text" class="search-field" id="search_field" name="keywords" placeholder="Search...">
+					
+					<button type="submit" name="submit_search" value="Search"><i class="icon icon-search"></i></button>
+				</form>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section><div class="breadcrumbs breadcrumbs-cat">
+									<div class="container">
+										<div class="row">
+											<div class="col-md-6 col-lg-8 breadcrumbbar">
+												 <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+								<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item name" href="https://www.knowledgebase-script.com/kb/index.php" title="">Home</a> <meta itemprop="position" content="1" /></li> 
+										    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item name" href="https://www.knowledgebase-script.com/kb/category.php" title="">Categories</a><meta itemprop="position" content="2" /></li> <li class="" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item name" href="https://www.knowledgebase-script.com/kb/category/user-manual/10/" title="">User Manual</a> <meta itemprop="position" content="3" /></li><li class="" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item name" href="https://www.knowledgebase-script.com/kb/category/user-manual/admin-control-panel/12/" title="">Admin Control Panel</a> <meta itemprop="position" content="4" /></li><li class="" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item name" href="https://www.knowledgebase-script.com/kb/category/user-manual/admin-control-panel/articles/14/" title="">Articles</a> <meta itemprop="position" content="5" /></li>
+							</ol>
+											</div>											
+											<div class="col-md-6 col-lg-4">
+												<div class="float-right-left sm-ml-minus10">
+								<!-- AddToAny BEGIN -->
+			<div class="a2a_kit a2a_kit_size_24 a2a_default_style" data-a2a-icon-color="transparent, #84919b">
+				<a class="a2a_button_facebook"></a>
+				<a class="a2a_button_twitter"></a>
+				<a class="a2a_button_pinterest"></a>
+				<a class="a2a_button_whatsapp"></a>
+				<a class="a2a_button_linkedin"></a>
+			</div>
+			<script async src="https://static.addtoany.com/menu/page.js"></script>
+			<!-- AddToAny END -->
+							 </div>
+											</div>
+										</div>
+									</div>
+								</div>
+			<div class="container container-xs">
+
+		        <div class="row">
+
+	        	
+					<div class="col-lg-3 col-xl-3  right-sidebar">
+
+						<script type="text/javascript">
+	var sbClasses ='';
+</script>
+	<!--Sidebar Toggle Button-->
+	<a href="#" data-toggle="offcanvas" class="sidebar-slide-toggle d-lg-none d-xl-none"><i class=""></i></a>
+	<script type="text/javascript">
+		var sbClasses = "sidebar-slide main-sidebar shadow1 fixed offcanvas scroll bg-white";
+	</script>
+	<aside id="sidebar_slide" style="width:auto;">
+		<!--Sidebar End-->
+		<div class="sidebar sidebar-kbtree mt-3 bordered-tree no-p">
+		
+			    		<div id="sidebar_others">
+			    			<div class="sidebar-widgets"><div class="widget widget-others phpkb-tree">
+									<div><div class="treeNode pt-0 pl-0 pr-0"><h3>Related Articles </h3></div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/managing-articles-79.html"><i class="icon-approved fs-18"></i> Managing Articles</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/collaborating-on-an-article-145.html"><i class="icon-approved fs-18"></i> Collaborating on an article</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/what-are-the-differences-between-public-and-private-articles-in-a-knowledge-base-191.html"><i class="icon-approved fs-18"></i> What are the differences between public and private articles in a knowledge base?</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/article-interface-in-front-end-area-144.html"><i class="icon-approved fs-18"></i> Article Interface in Front-end Area</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/how-to-author-an-article-in-the-knowledge-base-188.html"><i class="icon-approved fs-18"></i> How to Author an Article in the Knowledge Base?</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/types-of-articles-77.html"><i class="icon-approved fs-18"></i> Types of articles</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/adding-a-new-article-78.html"><i class="icon-approved fs-18"></i> Adding a new article</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/trash-box-84.html"><i class="icon-approved fs-18"></i> Trash Box</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/my-articles-149.html"><i class="icon-approved fs-18"></i> My Articles</a> 
+										 	</div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/autosaved-drafts-81.html"><i class="icon-approved fs-18"></i> Autosaved  Drafts</a> 
+										 	</div></div>
+								</div><div class="widget widget-others phpkb-tree">
+									<div><div class="treeNode pt-0 pl-0"><h3>Recently Viewed</h3></div>	<div class="treeNode">
+												<a href="https://www.knowledgebase-script.com/kb/article/searching-articles-80.html"><i class="icon-approved fs-18"></i> Searching Articles</a> 
+										 	</div></div>
+								</div>
+								 	<div class="widget widget-others floating-div ">
+										<h5>Do you want a <strong>Knowledge Base</strong> like this?</h5>
+										<p>PHPKB is the #1 Knowledge Base Software to setup a delightful self-service help center.</p>
+										<div align="center"><a class="btn btn-primary floating-btn" href="https://www.knowledgebase-script.com/demo.php" aria-label="">Yes, Show Me</a></div>
+									</div>
+							</div>
+			    		</div>			</div>
+			</aside>
+
+					</div>
+
+				
+					<div class="col-12 col-lg-9 col-xl-9 container-content  p-t-b-20" style="position:inherit!important;">
+
+						<div class="article-area">
+
+							<div id="articleContent">
+													<article class="post" >
+														<h1><span >Searching Articles</span></h1>
+														<span class="readingtime small">Estimated Reading Time: 3 Minutes</span>
+														<div class="article-meta-new display-inline-table">
+															<span class="pointer" title="Article ID"><i class="icon icon-description"></i> 80</span>
+															<span title="Author: Gurjeet Kaur"  ><i class="icon icon-user-circle-o"></i>&nbsp;<span >Gurjeet Kaur</span></span>
+														<span class="pointer" title="Updated On: Fri, Aug 4, 2017"><i class="icon icon-calendar-o"></i> Fri, Aug 4, 2017</span>
+															<span class="info-cats"><i class="icon icon-folder4"></i>&nbsp;<span ><a href="https://www.knowledgebase-script.com/kb/category/user-manual/admin-control-panel/articles/14/" title="Categories &raquo; User Manual &raquo; Admin Control Panel &raquo; Articles ">Articles</a></span></span>															
+															<span class="float-right pointer" title="0 Comment"><i class="icon icon-commenting"></i> <span > 0</span></span>
+															<span class="like-count float-right pointer" title="20739 Views"><i class="icon icon-eye"></i> 20739</span>
+														</div>
+														<div class="article-content">
+															<span >
+																<div id="ARTICLECONTENT">
+																	<p>To search articles in the knowledge base, click on "<strong>Search Articles</strong>" link available under <strong> Articles </strong>section&nbsp;in left navigation bar.</p>
+<p><img class="img-responsive" style="border: 1px solid #999; margin-right: 40px; margin-left: 40px; border-width: 1px;" src="https://www.knowledgebase-script.com/kb/assets/search-article-link.png" alt="" width="239" height="257"></p>
+<p>’Search Articles’ screen displays various filters using which you can search the article. But you need to select one or more filters to search for articles.</p>
+<p><img class="img-responsive" style="border: 1px solid #999; margin-right: 40px; margin-left: 40px;" src="https://www.knowledgebase-script.com/kb/assets/search-options-part1.png" alt="" width="279" height="530"></p>
+<ol><li><strong> Article ID: </strong> If you know the Article ID, you can directly&nbsp;enter it in the text box to edit it.</li>
+<li><strong> Keywords: </strong> Enter the keywords that you want to search&nbsp;and then click on ’<strong>Search</strong>’ button to view the results.</li>
+<li><strong> Search In: </strong> You can narrow the search more by specifying where these keywords are to be searched. By default, All is selected but you can choose any of the options among&nbsp;Title, Content, Keywords, Summary or Custom Fields.</li>
+<li><strong> Categories: </strong> You can search article in specific categories using a categories drop-down. All private and public categories are embedded in this drop-down.</li>
+<li><strong> Status: </strong> You can search articles of any specific status (See:<a href="https://www.knowledgebase-script.com/kb/article/types-of-articles-77.html">Types of Articles</a>) using this drop-down. By default, <strong>Any</strong> is mentioned which will search all type of articles.<br><img class="img-responsive" style="border: 1px solid #999; margin-bottom: 5px; margin-top: 5px;" src="https://www.knowledgebase-script.com/kb/assets/search-options-part2.png" alt="" width="279" height="404"></li>
+<li><strong> Article Hits (Views): </strong> You can search the articles by the number of times they have&nbsp;been viewed by end users (KB Users). For this,&nbsp;specify a count&nbsp;in ’<strong>Enter&nbsp;hits</strong>’ text box and choose a comparison option from the comparison drop-down displayed above the Enter&nbsp;Hits text box. The select box has following list of options:
+<ul style="list-style-type: disc;"><li>Less than - Click to search for articles viewed lesser than&nbsp;the&nbsp;number you have specified.</li>
+<li>Greater than - Click to search for articles viewed more than the number you have specified.</li>
+<li>Equal to - Click to search for articles that have exactly same number of views as you specified.</li>
+<li>Less than or Equal to - Click to&nbsp;search for articles viewed as many&nbsp;times as you specified, or fewer.</li>
+<li>Greater than or Equal to - Click to search articles viewed as many times as you specified or more.</li>
+</ul></li>
+<li><strong> Article Rating: </strong> You can search for articles by&nbsp;ratings given to them by end users. Select a rating number from the <strong>Rating drop-down </strong>list and comparison options (discussed&nbsp;above) from comparison drop-down list.</li>
+<li><strong> Date Created: </strong> You can also search the&nbsp;article according to the date on which it was if you know created. You can specify the creation date from the date calendar.<br><img class="img-responsive" style="border: 1px solid #999; margin-bottom: 5px; margin-top: 5px;" src="https://www.knowledgebase-script.com/kb/assets/search-options-part3.png" alt="" width="284" height="465"></li>
+<li><strong> Date Published: </strong> You can use this option to search for articles that are published&nbsp;before, after or on the date specified.</li>
+<li><strong> Date Modified: </strong> Use this option to search for articles that were modified before, after or on the date you specify.</li>
+<li><strong> Date Expired: </strong>You can specify the expiry date to search for articles&nbsp;that are expired before, after or on the date specified.</li>
+<li>Click on the search button and it will display a list of results at the right side of ’Search Articles’ page as shown in the figure below.<img class="img-responsive" style="border: 1px solid #999; margin-bottom: 5px; margin-top: 5px;" src="https://www.knowledgebase-script.com/kb/assets/article-search-results.png" alt="" width="780" height="431"></li>
+<li>Click on article title to preview the article and to perform the article operations click on the <strong>Actions</strong> drop-down.</li>
+</ol>
+
+																</div>
+															</span>
+														</div>
+																												
+													</article>
+													<div class="clearfix"></div>
+													<div class="horizontal-rule dashed mb-20">
+						    	<i class="icon icon-linear_scale"></i>
+							</div> <div>
+											<ul><li style="padding:2pt;"><strong>Applicable To:</strong> Standard Edition, Standard (Multi-Language) Edition, Enterprise Edition (MySQL), Enterprise Multi-Language Edition (MySQL), Enterprise Edition (SQL Server), Enterprise Multi-Language Edition (SQL Server)</li></ul>
+									  </div><div id="feedback_div">
+					<div class="feedback">
+						<div class="container">
+							<p class="text-center">
+								<span class="count">
+									Did you find this article helpful?					
+								</span>
+								<a class="feedback-btn pointer" onclick="sendFeedback('feedback_div','erdiv','https://www.knowledgebase-script.com/kb',80,'positive','Other');">
+									<span class=" feedback-icon feedback-icon-yes">
+										<i class="icon-check3"></i>
+									</span>
+								</a>
+								<a class="feedback-btn pointer" href="#modalFeedback" data-toggle="modal" data-target="#modalFeedback">
+									<span class="feedback-icon feedback-icon-not">
+										<i class="icon-close2"></i>
+									</span>
+								</a>
+							</p>
+						</div>
+					</div>
+					<div class="modal fade" id="modalFeedback" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false"  aria-labelledby="modalFeedbackLabel">
+		                <div class="modal-dialog" role="dialog">
+		                    <div class="modal-content">
+		                        <div class="modal-header">
+		                        	 <h4 class="modal-title float-left" id="modalFeedbackLabel">Feedback</h4>
+		                        	<a href="#" data-dismiss="modal" aria-label="Close" id="close" class="paper-nav-toggle active mr-3"><i></i></a>
+		                        </div>
+		                        <div class="modal-body">
+		                        	<div id="erdiv"></div>
+		                            <form name="frmfeedback" id="frmfeedback">
+		                            	<div class="form-group">
+		                                	<label class="col-12">Why this article wasn't helpful?</label>
+		                                    <select class="form-control form-control-lg py-0" id="feedback_reason" name="feedback_reason" onchange="toggleElement('feedback_reason','Other','fd_other');">
+		                                    	<option>I didn't find my answer</option><option>The answer was not clear enough</option><option>Other</option>
+											</select>			                                        
+		                                </div>                            
+		                                <div class="form-group has-icon" style="display:none;" id="fd_other">
+		                                	<label class="col-12">Provide your reason</label>
+		                                    <textarea rows="5" class="form-control form-control-lg" id="reason_other" name="reason_other"></textarea>
+		                                </div><div class="form-group has-icon"><i class="icon-envelope-o"></i>
+				            <input type="text" class="form-control form-control-lg" name="feedback_email" id="feedback_email" placeholder="Email Address">
+				        </div>
+				        <p class="forget-pass">Leave your email if you would like additional information.</p>	
+		                            </form>
+		                        </div>
+		                        <div class="modal-footer">
+		                            <input type="button" class="btn btn-primary btn-lg btn-block pointer" value="Submit" onclick="sendFeedback('feedback_div','erdiv','https://www.knowledgebase-script.com/kb',80,'negative','Other');">
+		                        </div>
+		                    </div>
+		                </div>
+		            </div>
+				</div>	
+													 <div class="article-meta-new article-options">
+														<div class="rating-bar">	
+						<div class="rating">
+							<div id="ratingbox">
+								<select name="rating" id="ratings" style="width:110px;">
+									<option value="1" data-html="Unhelpful">1 - Unhelpful</option>
+									<option value="2" data-html="Below Average">2 - Below Average</option>
+									<option value="3" data-html="Average">3 - Average</option>
+									<option value="4" data-html="Above Average">4 - Above Average</option>
+									<option value="5" data-html="Excellent">5 - Excellent</option>
+								</select>
+								<div class="rateit" id="rateit"  data-rateit-icon="&#xf005;" style="font-family:phpkbIcons" data-rateit-backingfld="#ratings" data-rateit-value="5" data-rateit-ispreset="true" data-rateit-mode="font" data-rateit-min="0" data-rateit-resetable="false" ></div>
+								<div id="rating_tooltip" class="pl-1 pt-1">Rating: 5 (1 Votes)</div>
+							</div>
+							
+						</div></div><div class="options text-center"><ul class="social">
+							     <li class="pdf"><a href="https://www.knowledgebase-script.com/kb/pdf-80.html" title="Export to PDF"><i class="icon icon-file-pdf-o" ></i></a></li><li class="print"><a href="https://www.knowledgebase-script.com/kb/print-80.html" target="_blank" title="Print Article"><i class="icon icon-print2" ></i></a></li>	<li id="output_fem" class="email">
+								<a rel="nofollow" href="#modalEmailFriend" data-toggle="modal" onclick="loadEmailFriendModal('https://www.knowledgebase-script.com/kb',80);" data-target="#modalEmailFriend" id="btn-emailfriend" class="pointer" title="Email Article to Friend">
+									<i class="icon icon-mail_outline" ></i>
+								</a>
+							</li>
+						      </ul></div><div class="subscribe"><a href="https://www.knowledgebase-script.com/kb/subscribe-80.html" class="btn btn-primary btn-catsubscribe"><i class="icon icon-user"></i> Subscribe</a></div>
+													</div>											
+												</div>	<ul class="nav nav-tabs home-tabs p-t-20" id="myTab" role="tablist"><li class="nav-item">
+										<a class="nav-link active" id="comments-tab" data-toggle="tab" href="#comments" role="tab" aria-controls="comments" aria-expanded="true">Post Comment</a>
+									</li></ul><div class="tab-content home-tabs-content" style="padding: 1.25rem;" id="myTabContent"> <div class="tab-pane fade show active" id="comments" role="tabpanel" aria-labelledby="comments-tab">
+										<div class="post-comments">
+							<div class="container">
+								<div id="output_div"></div>
+								<form name="frmpstcmt" action="" id="frmpstcmt" method="post"><div class="row">
+											<div class="col-lg-6">
+												<div class="form-group">
+													<input type="text" class="form-control form-control-lg" name="name" id="name" value="" placeholder="Name">
+												</div>
+											</div>
+											<div class="col-lg-6">
+												<div class="form-group">
+													<input type="text" class="form-control form-control-lg" name="email" id="email" value="" placeholder="Email">
+												</div>
+											</div>
+										 </div>
+										 <div class="row">
+											<div class="col-lg-12">
+												<div class="form-group">
+													<textarea name="comment" id="comment" class="form-control-lg" placeholder="Message"></textarea>
+												</div>
+											</div>
+										 </div>
+										 <div class="row">
+						<div class="col-12 col-sm-12 col-md-12">
+								<div class="g-recaptcha" data-sitekey="6LdHrhAUAAAAACjZIoI8ccrgSEN8s-NCh-cU_50J"></div>						  
+						  		<script src='https://www.google.com/recaptcha/api.js'></script>
+							<label class="error" id="recaptchaerror"></label>
+						</div>
+					  </div>
+										 <div class="row">
+											<div class="col-lg-12">
+												<button class="btn btn-primary btn-lg pointer" type="button"  name="postcmt" id="postcmt" value="Post Comment" onclick="return getScriptPage('output_div','AddComments','https://www.knowledgebase-script.com/kb','name','email','comment','80','captcha','recaptcha');">Post Comment</button>
+											</div>
+										 </div>
+									</form>
+								</div>
+							</div>										
+									</div></div>
+						</div><!-- End Article Area -->
+
+					</div>
+
+				</div><!-- End Row -->
+
+			</div><!-- End Container -->
+
+		</main>
+
+	
+	<!-- SignUp modal -->
+<div class="modal" id="modalSignUp" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-backdrop="static">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content no-r">
+        	<a href="#" data-dismiss="modal" aria-label="Close" class="paper-nav-toggle active mr-3"><i></i></a>
+            <div class="modal-body no-p">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Email 2 Friend Modal -->
+<div class="modal" id="modalEmailFriend" tabindex="-1" role="dialog" aria-labelledby="myEmailModal" data-backdrop="static">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content no-r">
+        	<a href="#" data-dismiss="modal" aria-label="Close" class="paper-nav-toggle active mr-3"><i></i></a>
+            <div class="modal-body no-p">
+            </div>
+        </div>
+    </div>
+</div>
+<footer class=" b-0 pt-0">
+				<!-- Subscribe to KB --><section class="newsletter p-t-b-50 animatedParent animateOnce">	<!-- Subscribe to KB -->
+						<div class="text-center animated fadeInUpShort">
+							<div class="container">
+								<header>
+									<h2>Subscribe to knowledge base</h2>
+									<p>Get notified when new articles are added to the knowledge base.</p>
+								</header>
+								<div class="row">
+									<div class="col-md-6 mx-md-auto">
+										<form  id="subscribe-form" action="https://www.knowledgebase-script.com/kb/subscribe.php" method="post">
+											<input type="email" class="form-control form-control-lg" name="submail" id="submail" placeholder="Email Address" />
+											<i class="icon-btn icon icon-rss"></i>
+											<button type="submit" class="submit subscribe btn btn-primary btn-lg pointer" name="subscribe" value="Subscribe">Subscribe</button>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div></section><div class="">
+	        	<div class="copyrights col-12" >
+	                <p align="center">
+	                	<a href="https://www.knowledgebase-script.com" target="_blank">Powered by PHPKB</a> (Knowledge Base Software)
+	                </p>
+	            </div>
+	        </div>
+			</footer>
+</div>
+
+<!--End Page page_wrapper -->   
+
+<script type="text/javascript" src="https://www.knowledgebase-script.com/kb/js/libs/jquery-3.2.1.min.js"></script>
+<script src="https://www.knowledgebase-script.com/kb/js/components/_preloader.js" type="text/javascript"></script><!-- Loading to work  -->
+<script src="https://www.knowledgebase-script.com/kb/js/libs/modernizr.min.js" type="text/javascript"></script><!-- For different functionalities in browsers -->
+<script type="text/javascript" src="https://www.knowledgebase-script.com/kb/js/libs/popper.min.js"></script><!-- For bootstrap -->
+<script src="https://www.knowledgebase-script.com/kb/js/libs/bootstrap.min.js"></script>
+<script type="text/javascript">
+	var filesLoaded = 'no';
+	loadFiles('https://www.knowledgebase-script.com/kb');
+	jQuery(window).resize(function() {
+		if(filesLoaded == 'no'){
+			loadFiles('https://www.knowledgebase-script.com/kb');
+		}
+	});
+			jQuery(document).ready(function(){
+			loadCSS = function(href) {
+				var cssLink = jQuery("<link>");
+				jQuery("head").append(cssLink); //IE hack: append before setting href
+				cssLink.attr({
+					rel:  "stylesheet",
+					type: "text/css",
+					href: href
+				});
+			};
+			loadCSS("https://www.knowledgebase-script.com/kb/css/category-icons.css");
+		});
+	</script>
+
+<script src="https://www.knowledgebase-script.com/kb/js/jquery.rateit.js" type="text/javascript" ></script>
+
+<script type="text/javascript">
+
+	var orgVal = '';
+
+	jQuery(document).ready(function(){
+
+		jQuery("#rateit").bind('over', function (event, value) {
+
+		 	var tooltipvalues = ['1 - Unhelpful', '2 - Below Average', '3 - Average', '4 - Above Average', '5 - Excellent'];
+
+	    	 jQuery(this).attr('title', tooltipvalues[value-1]);
+
+	    	 if(orgVal==''){
+
+	    	 	orgVal = jQuery('#rating_tooltip').html();
+
+	    	 }
+
+	    	 jQuery('#rating_tooltip').html(tooltipvalues[value-1]);
+
+		});
+
+		jQuery("#rateit").bind('mouseleave', function (event, value) {
+
+			var readonly = jQuery('#rateit').rateit('readonly');
+
+			if(readonly==false){
+
+				jQuery('#rating_tooltip').html(orgVal);
+
+			}	
+
+		});
+
+	});
+
+</script>
+
+<script type="text/javascript">
+
+	var tabs = '';
+
+	jQuery(document).ready(function(){
+
+		jQuery('#rateit').bind('rated', function (e) {
+
+	         var ri = jQuery(this);
+
+	         //if the use pressed reset, it will get value: 0 (to be compatible with the HTML range control), we could check if e.type == 'reset', and then set the value to  null .
+
+	         var value = ri.rateit('value');
+
+	         //maybe we want to disable voting?
+
+	         jQuery.ajax({
+
+	         	url: "https://www.knowledgebase-script.com/kb/include/ajax-hub.php",
+
+	    		data: {'aid':80,'usefor':'AddRatings','ratings':value,'refInfo':""},
+
+	    		success: function(result){
+
+	    			var output = jQuery.parseJSON( result);
+
+		       		jQuery("#rating_tooltip").html(output.html);
+
+		       		orgVal = output.html;
+
+		       		jQuery('#rateit').rateit('value', output.rating);
+
+		       		ri.rateit('readonly', true);
+
+				}
+
+	         });
+
+     	});     
+
+	});
+
+</script>
+
+<script src="https://www.knowledgebase-script.com/kb/js/responsive.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		bindSignupModal('https://www.knowledgebase-script.com/kb');
+	}); 
+</script>
+<script src="https://www.knowledgebase-script.com/kb/js/common.js" type="text/javascript" ></script>
+
+<script src="https://www.knowledgebase-script.com/kb/js/ajax.js" type="text/javascript" ></script>
+
+
+
+			<script type="text/javascript">var SRV_BASE = 'https://www.knowledgebase-script.com/kb/thesaurus/';</script>
+
+			<script src="https://www.knowledgebase-script.com/kb/thesaurus/js/jquery-thesaurus.js" type="text/javascript"></script>
+
+			<script type="text/javascript">
+
+			$(document).ready(function(){
+
+				$('.article-content').Thesaurus({
+
+					effect: 'fade',
+
+					caseSensitive: false 
+
+				});
+
+			});
+
+			</script>
+<input type="hidden" name="JSONGLOSSARY" id="JSONGLOSSARY" value="" />
+
+<script src="https://www.knowledgebase-script.com/kb/js/jquery.livesearch.js"></script>
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+jQuery(document).ready(function(){
+
+	jQuery('#search_field').liveSearch({url: 'https://www.knowledgebase-script.com/kb/include/ajax-hub.php?ajax=true&usefor=livesearch&keywords=', typeDelay:500});
+
+});
+
+//]]>
+
+</script>
+<script src="https://www.knowledgebase-script.com/kb/js/tweet.js" type="text/javascript" ></script>
+
+<script type="text/javascript">
+
+	// variables
+
+	jQuery(document).ready(function(){
+
+		var topPosition = jQuery('.floating-div').offset().top - 10;
+
+		var floatingDivHeight = jQuery('.floating-div').outerHeight();
+
+		
+
+		var win = jQuery(window);
+
+		var floatingDiv = jQuery('.floating-div');
+
+	
+
+		var footerFromTop = jQuery('nav').outerHeight() + jQuery('main').outerHeight();
+
+		var absPosition = footerFromTop - floatingDivHeight -10 ;
+
+		
+
+		win.scroll(function() {
+
+			if (window.matchMedia('(min-width: 1048px)').matches) {
+
+			
+
+			  if ((win.scrollTop() > topPosition) && (win.scrollTop() < absPosition)) {
+
+				floatingDiv.addClass('sticky');
+
+				floatingDiv.removeClass('abs');
+
+		
+
+			  } else if ((win.scrollTop() > topPosition) && (win.scrollTop() > absPosition)) {
+
+				floatingDiv.removeClass('sticky');
+
+				floatingDiv.addClass('abs');
+
+		
+
+			  } else {
+
+				floatingDiv.removeClass('sticky');
+
+				floatingDiv.removeClass('abs');
+
+			  }
+
+			}
+
+		});
+
+	});
+
+</script>
+
+	</body>
+</html>
